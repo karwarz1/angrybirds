@@ -77,6 +77,8 @@
   <ItemGroup>
     <Compile Include="Assets\__Scripts\CloudCrafter.cs" />
     <Compile Include="Assets\__Scripts\FollowCam.cs" />
+    <Compile Include="Assets\__Scripts\Goal.cs" />
+    <Compile Include="Assets\__Scripts\ProjectileLine.cs" />
     <Compile Include="Assets\__Scripts\Slingshot.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
